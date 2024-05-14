@@ -2,6 +2,8 @@
 
 Your philanthropic companion. A donation app making giving back effortless.
 
+# About
+
 KindTap is your go-to platform for making a difference. With our intuitive donation app, giving back has never been easier. Whether you're passionate about supporting charities, helping those in need, or funding important causes, KindTap empowers you to make a positive impact with just a few taps.
 
 Browse through a wide range of charitable organizations and initiatives, conveniently categorized to match your interests and values. From environmental conservation to humanitarian aid, find the causes that resonate with you and contribute securely through our streamlined donation process.
