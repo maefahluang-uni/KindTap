@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "348696503982",
+    "firebase_url": "https://mini-project-mobile-app-12b8e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mini-project-mobile-app-12b8e",
+    "storage_bucket": "mini-project-mobile-app-12b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348696503982:android:710872f26a2dea85cbaf3f",
+        "android_client_info": {
+          "package_name": "com.basbas1234.kindtap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzerk5zTGXopu4sQR6wv0WoA1C9IegwNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
